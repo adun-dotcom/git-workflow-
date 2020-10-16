@@ -1,0 +1,19 @@
+body{
+    background-color: ;
+}
+
+#button{
+    background-color: red;
+    border: 3px solid yellow;
+    width: 200px;
+    height: 50px;
+    color: yellow;
+}
+
+#header {
+    color: yellowgreen;
+}
+
+#title{
+    color: coral;
+}
